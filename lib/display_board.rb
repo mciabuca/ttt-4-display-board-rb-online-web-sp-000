@@ -7,3 +7,5 @@ def display_board(boards)
   puts boards;
 
 end
+
+display_board(board);
