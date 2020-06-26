@@ -3,4 +3,7 @@
 board = ["  ","  ","  ","  ","  ","  ","  ","  ","  "];
 
 def display_board(boards)
+
+  puts boards;
+
 end
